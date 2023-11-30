@@ -1,6 +1,8 @@
-[animal-tree.github.io/Antelope](https://animal-tree.github.io/Antelope)
+# Quick tutorial 
 
-### Quick tutorial for how to generate one's own documentation like this on one's own GitHub.
+These are the documentation files for [Antelope](https://github.com/animal-tree/Antelope), deployed live [here](https://animal-tree.github.io/Antelope). 
+
+### Step by step instructions for how to generate one's own documentation like this on one's own GitHub
 
 1. Create a Docs branch in your GitHub.
 2. In your console, on that branch locally, run:
@@ -55,4 +57,4 @@ jobs:
 9. A "Pages" branch should be automatically created. Add "Pages" branch to GitHub Pages: ``“Settings” —> “Pages” —> Pages``.
 10. View your docs live at ``https://<my_username>.github.io/<my_repo_name>``.
 
-### Please consider [donating](https://www.github.com/sponsors/animal-tree).
+## Please consider [donating](https://www.github.com/sponsors/animal-tree).
