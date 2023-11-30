@@ -1,5 +1,12 @@
-#
+# Welcome
 
-$\text{Brought to you by }$
+```console
+pip install antelope-brethren-star
+```
 
-<img width="10%" alt="flowchart" src="https://github.com/animal-tree/forest/assets/142250284/de0258da-ee98-40e0-a5b2-13fbf6eb1d7c">
+[Documentation.](https://animal-tree.github.io/Antelope/)
+
+See our library [Tributaries](https://github.com/animal-tree/tributaries) for mass-deploying Antelope apps on remote servers.
+
+Check out [minihydra / leviathan](https://github.com/animal-tree/minihydra) for how we handle sys args & hyperparams.
+
