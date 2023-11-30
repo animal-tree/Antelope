@@ -18,9 +18,9 @@ These are the documentation files for [Antelope](https://github.com/animal-tree/
    ...
    html_theme = ’sphinx_rtd_theme’
 ```
-5. Create your documentation by modifying ``index.rst`` and adding src RST files. For more info about creating documentation with RST files, see [Sphynx documentation]().
+5. Create your documentation by modifying ``index.rst`` and adding src RST files. For more info about creating documentation with RST files, see [Sphynx documentation](https://www.sphinx-doc.org/en/master/).
 6. Preview your work with ``make html`` and then opening the generated HTML files in your local browser.
-7. In the root directory (``cd ..``) on this branch, create a GitHub workflow:
+7. In the root directory (``cd ..``) on this branch locally, create a GitHub workflow:
     - ``mkdir .github/``
     - ``mkdir .github/workflows/``
     - ``vim .github/workflows/Docs.yaml``
