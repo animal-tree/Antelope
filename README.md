@@ -1,7 +1,7 @@
 # Welcome
 
 ```console
-pip install antelope-brethren-star
+pip install UnifiedML
 ```
 
 [Documentation.](https://animal-tree.github.io/Antelope/)
