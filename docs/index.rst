@@ -5,10 +5,10 @@ Welcome
 =======
 
 See our library
-`Tributaries <../../../tributaries-ml/src/tributaries>`__ for
+`Tributaries <https://github.com/animal-tree/Tributaries>`__ for
 mass-deploying Antelope apps on remote servers.
 
-Check out `minihydra / leviathan <../../../minihydra/src/minihydra>`__ for how we handle sys args &
+Check out `minihydra / leviathan <https://github.com/animal-tree/minihydra>`__ for how we handle sys args &
 hyperparams.
 
 Install
