@@ -18,7 +18,7 @@ Install
 
    pip install antelope-brethren-star
 
-will install The Antelope.
+will install `The Antelope <https://github.com/animal-tree/Antelope>`__.
 
 Table of Antlers
 =======
